@@ -2,7 +2,7 @@
 
 
 STEPS:
-1) DOWNLOAD AND EXTRACT THE RAR FILE OR CLONE IT
+1) DOWNLOAD AND EXTRACT THE RAR FILE OR CLONE IT FROM: https://github.com/CMU-Perceptual-Computing-Lab/openpose.git
 
 2) Minimum Requirements for the default configuration
    CUDA (Nvidia GPU) version:
